@@ -3,6 +3,7 @@
   - Language & Framework
     - Java, Spring Framework, Spring Boot
     - javascript, Node.js, React, Angular
+    - dart, Flutter
   - DB
     - RDB
       - ORACLE, TIBERO, MySQL, MariaDB, PostgreSQL
