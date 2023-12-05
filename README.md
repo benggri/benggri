@@ -13,6 +13,26 @@
 
 ---
 
+```mermaid
+mindmap
+  root((Benggri))
+    Thinks
+      I want to go home
+      I like to lie down
+      I like traveling
+        with my family
+    Home
+      very good
+    Thanks
+      to my family
+    Tools
+      computer
+      ipad
+      pen and paper
+```
+
+---
+
 [![Benggri's GitHub stats](https://github-readme-stats.vercel.app/api?username=benggri)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
