@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @benggri
 - 👀 I’m Web Developer
   - Language & Framework
-    - Java, Spring Framework, Spring Boot
-    - javascript, Node.js, React, Angular
+    - Java, Spring Boot
+    - javascript, Node.js
+    - React.js, Next.js
   - DB
     - RDB
       - ORACLE, TIBERO, MySQL, MariaDB, PostgreSQL
