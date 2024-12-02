@@ -8,7 +8,13 @@
     - RDB
       - ORACLE, TIBERO, MySQL, MariaDB, PostgreSQL
     - NoSQL
-      - MongoDB, Redis
+      - MongoDB, Redis  
+- Cloud
+  - AWS
+  - GCP
+- VCS
+  - Github
+  - Bitbucket
 - 🌱 Recently, I am studying app development using Dart and Flutter
   - Android : https://play.google.com/store/apps/dev?id=9060554622254017436&hl=ko
 
